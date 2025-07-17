@@ -1,0 +1,25 @@
+Identify Key Metrics for Low-Cost vs. Non-Low-Cost Airlines
+
+Business Context:
+Airline companies want to understand how low-cost carriers compare to traditional carriers in terms of profitability and efficiency.
+
+Problem Statement:
+Compare the average values of the following metrics between low-cost (low_cost_carrier = 'Y') and non-low-cost carriers:
+EBIT in USD (ebit_usd)
+Load Factor (load_factor)
+Number of Routes (num_routes)
+Passenger Yield (passenger_yield)
+Average Fleet Age (avg_fleet_age)
+
+
+Guiding Questions:
+1. What is the average EBIT for low-cost vs. non-low-cost airlines?
+2. Do low-cost carriers generally operate newer or older fleets?
+3. How does the passenger yield compare between the two groups?
+
+
+Expected Skills Practiced:
+Filtering (WHERE)
+Grouping and Aggregation (GROUP BY)
+Basic statistical functions (AVG, COUNT)
+Interpreting basic business metrics

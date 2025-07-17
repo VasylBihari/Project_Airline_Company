@@ -1,0 +1,25 @@
+Regional Performance Analysis of Airlines
+
+Business Context:
+The airline industry is regionally diverse, and profitability can vary significantly by region. As an analyst, you’re tasked with helping leadership identify which regions are operating most efficiently and profitably.
+
+Problem Statement:
+
+Perform a comparative analysis across regions to determine which region has the most efficient and profitable airlines, using the following metrics:
+Average EBIT (USD)
+Average Load Factor
+Average Passenger Yield
+Fleet Utilization Proxy: Calculate aircraft utilization as ask / fleet_size, where ask = Available Seat Kilometers
+Average Airline Age
+
+
+
+Bonus Challenge:
+Which region has the best overall balance across profitability and operational efficiency?
+Are low-cost carriers more common in any particular region? Show a count of low-cost carriers per region.
+
+Expected Skills Practiced:
+Advanced grouping and aggregations
+Derived columns / calculated metrics
+Ranking logic
+Insights generation across multiple KPIs
