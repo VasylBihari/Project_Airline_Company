@@ -21,3 +21,5 @@ The project helps visualize comparisons, for example, profitability by region (M
 - data_csv/: Processed data after SQL aggregation ([CSV files with aggregated metrics](https://github.com/VasylBihari/Project_Airline_Company/tree/main/data_csv)).
 - docs/: PDF with graphs ([Airline.pdf](https://github.com/VasylBihari/Project_Airline_Company/blob/main/Dashboard/Dashboard_Airline.pdf))
 
+![dashboard_1](https://github.com/VasylBihari/Project_Airline_Company/blob/main/Dashboard/Dashboard_Airline_page-0001.jpg) 
+![dashboard_2](https://github.com/VasylBihari/Project_Airline_Company/blob/main/Dashboard/Dashboard_Airline_page-0002.jpg)
