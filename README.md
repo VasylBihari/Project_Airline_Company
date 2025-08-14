@@ -19,7 +19,7 @@ The project helps visualize comparisons, for example, profitability by region (M
 - data/: Source datasets ([airline_data.csv](https://github.com/VasylBihari/Project_Airline_Company/blob/main/airline_data.csv), [airline_dataset_metadata](https://github.com/VasylBihari/Project_Airline_Company/blob/main/airline_dataset_metadata.csv)).
 - sql/: SQL scripts ([Data_Exploration_06082025.sql](https://github.com/VasylBihari/Project_Airline_Company/blob/main/sql/Data_Exploration_06082025.sql), [Data_Processing_06082025.sql](https://github.com/VasylBihari/Project_Airline_Company/blob/main/sql/Data_Processing_06082025.sql)).
 - data_csv/: Processed data after SQL aggregation ([CSV files with aggregated metrics](https://github.com/VasylBihari/Project_Airline_Company/tree/main/data_csv)).
-- dashboard on Looker Studio https://lookerstudio.google.com/reporting/09a5d4de-26c3-422f-bb44-493cb179ab73
+- [dashboard on Looker Studio](https://lookerstudio.google.com/reporting/09a5d4de-26c3-422f-bb44-493cb179ab73)
 
 ![dashboard_1](https://github.com/VasylBihari/Project_Airline_Company/blob/main/Dashboard/Dashboard_Airline_page-0001.jpg) 
 ![dashboard_2](https://github.com/VasylBihari/Project_Airline_Company/blob/main/Dashboard/Dashboard_Airline_page-0002.jpg)
